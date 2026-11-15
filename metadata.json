@@ -1,0 +1,8 @@
+{
+  "name": "How High Are You?",
+  "description": "A fast-paced 5-round neon arcade party game testing reflexes, blind time perception, focus, pattern memory, and boldness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
